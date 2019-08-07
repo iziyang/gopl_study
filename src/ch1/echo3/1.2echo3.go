@@ -1,4 +1,4 @@
-package main
+package echo3
 
 import (
 	"fmt"

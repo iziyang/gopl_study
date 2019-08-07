@@ -19,7 +19,7 @@
 //	}
 //}
 
-package main
+package dup1
 
 import (
 	"bufio"
