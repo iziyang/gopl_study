@@ -1,7 +1,7 @@
-package fetch
+package main
 
 import (
-	fmt "fmt"
+	"fmt"
 	"io"
 	"net/http"
 	"os"
