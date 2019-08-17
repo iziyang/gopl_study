@@ -1,8 +1,4 @@
-/*
-广度优先遍历
-*/
-
-package main
+package links
 
 import (
 	"fmt"
@@ -11,7 +7,7 @@ import (
 )
 
 /*
-
+一个爬虫
  */
 func Extract(url string) ([]string, error) {
 	resp, err := http.Get(url)
